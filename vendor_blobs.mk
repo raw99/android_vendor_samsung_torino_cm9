@@ -15,6 +15,7 @@
 # Camera
 PRODUCT_COPY_FILES += \
     vendor/samsung/torino/proprietary/lib/libcamera.so:system/lib/libcamera.so \
+    vendor/samsung/torino/proprietary/lib/libcamera.so:obj/lib/libcamera.so \
     vendor/samsung/torino/proprietary/lib/libbrcmjpeg.so:system/lib/libbrcmjpeg.so \
     vendor/samsung/torino/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
     vendor/samsung/torino/proprietary/lib/libCaMotion.so:system/lib/libCaMotion.so \
