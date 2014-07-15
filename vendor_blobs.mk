@@ -16,15 +16,14 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/torino/proprietary/lib/libcamera.so:system/lib/libcamera.so \
     vendor/samsung/torino/proprietary/lib/libbrcmjpeg.so:system/lib/libbrcmjpeg.so \
-    vendor/samsung/tassve/proprietary/lib/libcamera.so:obj/lib/libcamera.so 
-#    vendor/samsung/torino/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
-#    vendor/samsung/torino/proprietary/lib/libCaMotion.so:system/lib/libCaMotion.so \
-#    vendor/samsung/torino/proprietary/lib/libPanoraMax1.so:system/lib/libPanoraMax1.so \
-#    vendor/samsung/torino/proprietary/lib/libseccamera.so:system/lib/libseccamera.so \
-#    vendor/samsung/torino/proprietary/lib/libseccameraadaptor.so:system/lib/libseccameraadaptor.so \
-#    vendor/samsung/torino/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
-#    vendor/samsung/torino/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
-#    vendor/samsung/torino/proprietary/lib/libcaps.so:system/lib/libcaps.so
+    vendor/samsung/torino/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
+    vendor/samsung/torino/proprietary/lib/libCaMotion.so:system/lib/libCaMotion.so \
+    vendor/samsung/torino/proprietary/lib/libPanoraMax1.so:system/lib/libPanoraMax1.so \
+    vendor/samsung/torino/proprietary/lib/libseccamera.so:system/lib/libseccamera.so \
+    vendor/samsung/torino/proprietary/lib/libseccameraadaptor.so:system/lib/libseccameraadaptor.so \
+    vendor/samsung/torino/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
+    vendor/samsung/torino/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
+    vendor/samsung/torino/proprietary/lib/libcaps.so:system/lib/libcaps.so
 
 # Sensors
 PRODUCT_COPY_FILES += \
